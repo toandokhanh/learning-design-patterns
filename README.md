@@ -1,4 +1,5 @@
-# Series Design Patterns
+# Design Patterns
+![image](https://github.com/toandokhanh/learning-design-patterns/assets/98395447/40eb08ec-84f9-4a9c-94d2-4c212a499856)
 
 # Videos
 
